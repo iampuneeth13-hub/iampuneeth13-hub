@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm V Chandan
+Header
 
-<!--
-**iampuneeth13-hub/iampuneeth13-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛰️ Bio-Signal
+I am a Bachelor of Engineering student in Cybersecurity, dedicated to exploring the nuances of Network Security, AI Integration, and System Automation. My work focuses on building resilient systems and leveraging AI to solve complex security challenges.
 
-Here are some ideas to get you started:
+🎓 Pursuing B.E. in Cybersecurity.
+🤖 Researching Prompt Engineering.
+🐚 Passionate about Linux and Shell Automation.
+⚡ Constantly learning and evolving in the digital frontier.
+🛠️ Tech Arsenal
+Languages & Scripting
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security & Infrastructure
+  
+
+AI & Computer Vision
+  
+
