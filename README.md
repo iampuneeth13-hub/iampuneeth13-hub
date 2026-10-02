@@ -1,4 +1,4 @@
-Hi 👋, I'm V Chandan
+Hi 👋, I'm PUNEETH KUMAR
 Header
 
 🛰️ Bio-Signal
@@ -9,12 +9,5 @@ I am a Bachelor of Engineering student in Cybersecurity, dedicated to exploring 
 🐚 Passionate about Linux and Shell Automation.
 ⚡ Constantly learning and evolving in the digital frontier.
 🛠️ Tech Arsenal
-Languages & Scripting
-  
 
-Security & Infrastructure
-  
-
-AI & Computer Vision
-  
 
